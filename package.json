@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-cat",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiShaoXuan/vuepress-plugin-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiShaoXuan/vuepress-plugin-cat/issues"
+  },
+  "homepage": "https://github.com/QiShaoXuan/vuepress-plugin-cat#readme"
+}

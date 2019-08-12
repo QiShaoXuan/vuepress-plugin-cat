@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+*.log
+.temp
+vuepress
+TODOs.md
+.idea
+.vscode
+dist
+config.js
