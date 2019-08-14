@@ -19,3 +19,6 @@ module.exports = {
 - This plugin supports `vuepress 1.x`
 - This plugin will randomly change the white cat or black cat when router path change.
 
+## Demo
+
+- https://qishaoxuan.github.io/css_tricks/
