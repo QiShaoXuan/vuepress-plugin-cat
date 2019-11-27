@@ -4,14 +4,24 @@
 
 1. install `npm i vuepress-plugin-cat -S`
 
-2. add in `config.js`
+2. import in .vue file
 
-```js
-module.exports = {
-  plugins: [
-    "vuepress-plugin-cat",
-  ]
-}
+```html
+<template>
+  <div class="home">
+    <cat/>
+  </div>
+</template>
+
+<script>
+import Cat from "vuepress-plugin-cat/cat"
+export default {
+  name: "home",
+  components: {
+    Cat
+  }
+};
+</script>
 ```
 
 ## Tip
