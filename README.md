@@ -21,4 +21,4 @@ module.exports = {
 
 ## Demo
 
-- https://qishaoxuan.github.io/css_tricks/
+- http://css-tricks.neatbang.com
